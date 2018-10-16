@@ -1,0 +1,7 @@
+C:\Users\rtoles\Desktop\GC_Lab_8\Lab_8\Lab_8\bin\Debug\Lab_8.exe.config
+C:\Users\rtoles\Desktop\GC_Lab_8\Lab_8\Lab_8\bin\Debug\Lab_8.exe
+C:\Users\rtoles\Desktop\GC_Lab_8\Lab_8\Lab_8\bin\Debug\Lab_8.pdb
+C:\Users\rtoles\Desktop\GC_Lab_8\Lab_8\Lab_8\obj\Debug\Lab_8.csprojAssemblyReference.cache
+C:\Users\rtoles\Desktop\GC_Lab_8\Lab_8\Lab_8\obj\Debug\Lab_8.csproj.CoreCompileInputs.cache
+C:\Users\rtoles\Desktop\GC_Lab_8\Lab_8\Lab_8\obj\Debug\Lab_8.exe
+C:\Users\rtoles\Desktop\GC_Lab_8\Lab_8\Lab_8\obj\Debug\Lab_8.pdb
